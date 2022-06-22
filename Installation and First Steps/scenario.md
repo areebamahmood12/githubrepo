@@ -17,3 +17,4 @@ isPremium: true
 isAvailable: true
 points: .nan
 thumbnail: https://brainarator.s3.amazonaws.com/new/istio.svg
+level: beginner
